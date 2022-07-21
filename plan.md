@@ -14,9 +14,11 @@ sammen
 * dele programmet i moduler
 * planlegge hvordan modulene kommuniserer
 * skrive tester for modulene
+
 alene
 * speedrun kode
 * skriv kode på nytt bedre
+
 sammen
 * se hvordan de fungerer sammen
 
